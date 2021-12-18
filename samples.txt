@@ -1,22 +1,16 @@
-
-
 Javascript
-Shadows of the Night 
+Shd*ws *f the Night 
 https://www.codingame.com/replay/597588498
+https://github.com/jbraanen/Samples/blob/main/main.cs
 main.js
 
 C#
-Mars Lander
+M*rs L*nder
 https://www.codingame.com/replay/597588705
+https://github.com/jbraanen/Samples/blob/main/main.cs
 
 
 C++
-Mad Pod Racing/Coders Strike Back
+Mad P*d Racing/C*ders Strike B*ck
 https://www.codingame.com/replay/518661206
-
-
-
-
-
-
-
+https://github.com/jbraanen/Samples/blob/main/main.cpp
